@@ -1,0 +1,2 @@
+serviceClass: com.quickstart.client.GreetingService
+path: FEF672F93144F6CAD021D9D149B52B82.gwt.rpc

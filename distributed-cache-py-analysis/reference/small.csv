@@ -1,0 +1,2 @@
+cacheType,parallelSize,loopSize,dataSize,preloadSize,className,hostName,threadNum,loopNum,intIteration,time
+Hazelcast,2,2,small,0,getTestRow,eugene-t530,1,1,0,82864

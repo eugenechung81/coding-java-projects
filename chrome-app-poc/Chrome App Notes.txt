@@ -1,0 +1,41 @@
+Chrome App 
+https://developer.chrome.com/apps/first_app
+* can run any other FE like html5, javascript, etc
+* access like a native app, 
+* contained in different lifecycle 
+* security model -> compiles with content security policy (CSP) 
+* access to low-level system services (USB, serial, Network - UDP, TCP) 
+* filesystem, printing, hardware, os libraries
+* can run as published app (need dev account), or native client 
+
+https://github.com/GoogleChrome/chrome-app-samples
+* gallery - browser, window-state
+
+***
+
+
+
+--load-and-launch-app=C:\tmp\hello-world
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --load-and-launch-app=C:\tmp\hello-world
+
+
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --load-and-launch-app=C:\tmp\browser
+
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --load-and-launch-app=C:\tmp\mezocliq-app
+
+***
+
+--load-and-launch-app=/path/to/app/ installs the unpacked application from the given path, and launches it. If the application is already running it is reloaded with the updated content.
+--app-id=ajjhbohkjpincjgiieeomimlgnll launches an app already loaded into Chrome. It does not restart any previously running app, but it does launch the new app with any updated content.
+
+***
+
+Deployment
+
+
+
+https://support.google.com/chrome/a/answer/2649489?hl=en
+* allows you to create private chrome app collection 
+* needs chrome for business 
+
+http://www.google.com/intl/en_us/chrome/business/browser/

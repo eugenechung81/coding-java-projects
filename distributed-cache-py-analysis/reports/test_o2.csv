@@ -1,0 +1,125 @@
+cacheType                                                       Hazelcast  \
+parallelSize loopSize dataSize preloadSize className                        
+1            25       large    0           getTestRow       380395.988000   
+                                           getTestRowList   334286.024000   
+                                           putTestRow       992134.316000   
+                                           putTestRowList  1042196.696000   
+                               50          getTestRow       354133.301600   
+                                           getTestRowList   325405.800000   
+                                           putTestRow       933799.784800   
+                                           putTestRowList   943435.856000   
+                      small    0           getTestRow       557409.712000   
+                                           getTestRowList   516839.688000   
+                                           putTestRow      1270323.301600   
+                                           putTestRowList  1235859.128000   
+                               50          getTestRow       430700.364000   
+                                           getTestRowList   404144.528000   
+                                           putTestRow      1046499.977600   
+                                           putTestRowList   904545.304000   
+2            2        large    0           getTestRow                 NaN   
+                                           getTestRowList             NaN   
+                                           putTestRow                 NaN   
+                                           putTestRowList             NaN   
+10           25       large    0           getTestRow       210986.759840   
+                                           getTestRowList   208837.396800   
+                                           putTestRow       572382.622720   
+                                           putTestRowList   795329.282400   
+                               50          getTestRow       212835.899520   
+                                           getTestRowList   216767.386400   
+                                           putTestRow       585830.595600   
+                                           putTestRowList   802059.654400   
+                      small    0           getTestRow       204397.880320   
+                                           getTestRowList   199618.571200   
+                                           putTestRow       508063.112640   
+                                           putTestRowList   470410.586400   
+                               50          getTestRow       204988.933520   
+                                           getTestRowList   201071.793600   
+                                           putTestRow       508445.968800   
+                                           putTestRowList   474125.706400   
+25           25       large    50          getTestRow                 NaN   
+                                           getTestRowList             NaN   
+                                           putTestRow                 NaN   
+                                           putTestRowList             NaN   
+50           25       large    50          getTestRow                 NaN   
+                                           getTestRowList             NaN   
+                                           putTestRow                 NaN   
+                                           putTestRowList             NaN   
+100          25       large    0           getTestRow       607833.132800   
+                                           getTestRowList   592877.105200   
+                                           putTestRow      1321042.497408   
+                                           putTestRowList  1513837.116400   
+                               50          getTestRow       538572.078592   
+                                           getTestRowList   573758.789360   
+                                           putTestRow      1162862.443928   
+                                           putTestRowList  1373891.821920   
+                      small    0           getTestRow       367655.460800   
+                                           getTestRowList   379582.144400   
+                                           putTestRow       766309.804160   
+                                           putTestRowList   793207.344080   
+                               50          getTestRow       490160.137680   
+                                           getTestRowList   485409.373840   
+                                           putTestRow       988443.708536   
+                                           putTestRowList   958328.134240   
+
+cacheType                                                       Infinispan  
+parallelSize loopSize dataSize preloadSize className                        
+1            25       large    0           getTestRow        296319.674400  
+                                           getTestRowList    152898.744000  
+                                           putTestRow         56880.209600  
+                                           putTestRowList    186222.328000  
+                               50          getTestRow        260612.738400  
+                                           getTestRowList    138793.656000  
+                                           putTestRow         51562.344800  
+                                           putTestRowList    195496.136000  
+                      small    0           getTestRow        466569.866400  
+                                           getTestRowList    241360.416000  
+                                           putTestRow        141287.758400  
+                                           putTestRowList    287397.976000  
+                               50          getTestRow        283185.512800  
+                                           getTestRowList    135548.512000  
+                                           putTestRow         55987.436000  
+                                           putTestRowList     91464.152000  
+2            2        large    0           getTestRow        449055.055000  
+                                           getTestRowList    377446.850000  
+                                           putTestRow       3084989.820000  
+                                           putTestRowList   5076048.200000  
+10           25       large    0           getTestRow        215327.608240  
+                                           getTestRowList    147889.894400  
+                                           putTestRow         58295.650320  
+                                           putTestRowList    184360.715200  
+                               50          getTestRow        208795.567680  
+                                           getTestRowList    144138.634400  
+                                           putTestRow         58625.895760  
+                                           putTestRowList    182589.177600  
+                      small    0           getTestRow        228080.406880  
+                                           getTestRowList    146278.090400  
+                                           putTestRow         33858.734880  
+                                           putTestRowList     67754.034400  
+                               50          getTestRow        214698.849360  
+                                           getTestRowList    148360.304800  
+                                           putTestRow         35824.991920  
+                                           putTestRowList     67397.957600  
+25           25       large    50          getTestRow        180654.699904  
+                                           getTestRowList    214002.526080  
+                                           putTestRow        938090.763968  
+                                           putTestRowList   1611205.639680  
+50           25       large    50          getTestRow       3165862.971081  
+                                           getTestRowList   1669448.547359  
+                                           putTestRow      14277279.851523  
+                                           putTestRowList   6563864.417036  
+100          25       large    0           getTestRow        788514.461008  
+                                           getTestRowList   4680367.787760  
+                                           putTestRow       1241736.099808  
+                                           putTestRowList    483422.581200  
+                               50          getTestRow       4735503.696280  
+                                           getTestRowList   2346540.199040  
+                                           putTestRow       2963888.981240  
+                                           putTestRowList   2285346.624160  
+                      small    0           getTestRow        277300.625592  
+                                           getTestRowList    292843.955360  
+                                           putTestRow         47831.204784  
+                                           putTestRowList     67800.404080  
+                               50          getTestRow        556918.747968  
+                                           getTestRowList    591865.207440  
+                                           putTestRow         78192.202080  
+                                           putTestRowList     90899.977120  

@@ -1,0 +1,110 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": null, 
+                    "name": "EXCHANGE (INSTITUTION)\nTRACE"
+                }, 
+                {
+                    "children": null, 
+                    "name": "ULTIMATE BORROWER (INSTITUTION)\nLAUREATE EDUCATION"
+                }, 
+                {
+                    "children": null, 
+                    "name": "ISSUER (INSTITUTION)\nLAUREATE EDUCATION"
+                }, 
+                {
+                    "children": null, 
+                    "name": "LEAD MANAGER (INSTITUTION)\nJOINT LEADS"
+                }, 
+                {
+                    "children": null, 
+                    "name": "GUARANTOR (INSTITUTION)\nSUBSIDIARIES"
+                }
+            ], 
+            "name": "SECURITY (SECURITIES)\nLAUREATE EDUCATION INC BOND 20190901"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": null, 
+                            "name": "ENTITY (ENTITY)\nMZQ US"
+                        }
+                    ], 
+                    "name": "RELATIONSHIP-MANAGER (EMPLOYEE)\nMIKE OPERATIONS"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": null, 
+                            "name": "ENTITY (ENTITY)\nMZQ US"
+                        }
+                    ], 
+                    "name": "CLIENT-SERVICE (EMPLOYEE)\nMIKE OPERATIONS"
+                }, 
+                {
+                    "children": null, 
+                    "name": "ENTITY (ENTITY)\nGPIM"
+                }, 
+                {
+                    "children": null, 
+                    "name": "CLIENT (CLIENT)\nGUGGENHEIM BUILD AMERICA BONDS GPIM"
+                }, 
+                {
+                    "children": null, 
+                    "name": "SIGNATORY (INDIVIDUAL)\nPETER WHITE"
+                }, 
+                {
+                    "children": null, 
+                    "name": "CORRESPONDENT (INDIVIDUAL)\nPETER WHITE"
+                }, 
+                {
+                    "children": null, 
+                    "name": "ROSTER-PB (ROSTER)\nGUG BAB MNGD DUR TRUST"
+                }, 
+                {
+                    "children": null, 
+                    "name": "ROSTER- CUSTODIAN (ROSTER)\nGUG BAB MNGD DUR TRUST"
+                }, 
+                {
+                    "children": null, 
+                    "name": "SETTLOR (BURSAR)\nBANK OF NEW YORK MELLON"
+                }, 
+                {
+                    "children": null, 
+                    "name": "BENEFICIARY (INDIVIDUAL)\nPETER WHITE"
+                }
+            ], 
+            "name": "ACCOUNT (ACCOUNT)\nGUGGENHEIM BUILD AMERICA BOND MANAGED DURATION TRUST GPIM"
+        }, 
+        {
+            "children": [
+                {
+                    "children": null, 
+                    "name": "TEAM (TEAM)\nSPEQS"
+                }, 
+                {
+                    "children": null, 
+                    "name": "DEPARTMENT (DEPARTMENT)\nSPEQS"
+                }, 
+                {
+                    "children": null, 
+                    "name": "MANAGER (EMPLOYEE)\nPARIKSHIT ARORA"
+                }, 
+                {
+                    "children": null, 
+                    "name": "ENTITY (ENTITY)\nMZQ US"
+                }
+            ], 
+            "name": "TRADER (EMPLOYEE)\nBRIAN FONTANA"
+        }, 
+        {
+            "children": null, 
+            "name": "C-PARTY (INSTITUTION)\nJPMORGAN CHASE BANK"
+        }
+    ], 
+    "name": "TRADE"
+}

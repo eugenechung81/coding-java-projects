@@ -1,0 +1,368 @@
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2742 units from cache.
+Compiling...
+   Compilation completed in 0.03 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711656663.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711656663.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711656663_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711656956.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711656956.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711656956_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711689037.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711689037.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711689037_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711689955.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711689955.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412711689955_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2742 units from cache.
+Compiling...
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 7.96 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712447241.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712447241.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712447241_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712447559.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712447559.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712447559_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] com.google.gwt.user.client.ui.SimpleRadioButton has no default (zero args) constructor. To fix this, you can define a @UiFactory method on the UiBinder's owner, or annotate a constructor of SimpleRadioButton with @UiConstructor.
+[ERROR] Deferred binding failed for 'com.quickstart.client.TestUiBinder.TestUiBinderUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2742 cached/archived units.  Used 2742 / 2742 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] com.google.gwt.user.client.ui.SimpleRadioButton has no default (zero args) constructor. To fix this, you can define a @UiFactory method on the UiBinder's owner, or annotate a constructor of SimpleRadioButton with @UiConstructor.
+[ERROR] Deferred binding failed for 'com.quickstart.client.TestUiBinder.TestUiBinderUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2742 cached/archived units.  Used 2742 / 2742 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712693582.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712693582.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712693582_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712693899.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712693899.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712693899_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712697004.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712697004.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712697004_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712698858.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712698858.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712698858_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712702209.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712702209.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712702209_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder.TestUiBinderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712706336.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712706336.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.quickstart.client.TestUiBinder_TestUiBinderUiBinderImpl_designTime1412712706336_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units

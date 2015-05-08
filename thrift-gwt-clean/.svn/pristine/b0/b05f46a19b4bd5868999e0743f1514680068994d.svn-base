@@ -1,0 +1,5 @@
+To run the tutorial, import the project in the "gwt" folder in Eclipse, and start it.
+
+The tutorial build path references:
+ - The library source files.
+ - Generated thrift classes, but feel free to regenerate them from the thrift definitions.

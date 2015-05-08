@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='tutorial'>
+  
+  <inherits name='com.google.gwt.user.User'/>
+  <inherits name="com.google.gwt.logging.Logging"/>
+  <inherits name='org.apache.thrift.Thrift'/>
+
+  <entry-point class='tutorial.client.Tutorial'/>
+
+  <source path='client'/>
+  <source path='shared'/>
+
+</module>
